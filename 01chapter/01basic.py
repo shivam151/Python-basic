@@ -1,5 +1,3 @@
-
-
 # JUST BASIC QUESTION WHAT IS PYTHON
 
 print("Hello World!")
