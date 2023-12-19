@@ -6,4 +6,8 @@ dic={
     "age": 36,
     "country": "Norway"
 }
+print(dic)
+
 print(dic["name"])
+print(dic.get("age"))#This is not give error when the key is not present in the dictionary
+print(dic.get("name"))
